@@ -1,0 +1,5 @@
+flask==2.3.3
+aiohttp==3.8.5
+beautifulsoup4==4.12.2
+soupsieve==2.4.1
+gunicorn==21.2.0
